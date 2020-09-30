@@ -1,2 +1,2 @@
 # python-algo-project
-Demo Algo 1
+Algo Project Day 1 & 2
